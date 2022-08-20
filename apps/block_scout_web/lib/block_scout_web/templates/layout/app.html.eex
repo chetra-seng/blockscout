@@ -245,6 +245,7 @@
       @view_module != Elixir.BlockScoutWeb.TransactionRawTraceView &&
       @view_module != Elixir.BlockScoutWeb.TransactionTokenTransferView &&
       @view_module != Elixir.BlockScoutWeb.AddressTransactionView &&
+      @view_module != Elixir.BlockScoutWeb.TransactionStateView &&
       @view_module != Elixir.BlockScoutWeb.AddressTokenTransferView &&
       @view_module != Elixir.BlockScoutWeb.AddressTokenView &&
       @view_module != Elixir.BlockScoutWeb.AddressInternalTransactionView &&

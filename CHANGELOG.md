@@ -2,6 +2,7 @@
 
 ### Features
 - [#5860](https://github.com/blockscout/blockscout/pull/5860) - Integrate rust verifier micro-service ([blockscout-rs/verifier](https://github.com/blockscout/blockscout-rs/tree/main/verification))
+- [#5944](https://github.com/blockscout/blockscout/pull/5944) - Add tab with state changes to transaction page
 
 ### Fixes
 - [#5954](https://github.com/blockscout/blockscout/pull/5954) - Fix ace editor appearance
